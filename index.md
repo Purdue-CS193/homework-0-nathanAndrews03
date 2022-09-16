@@ -14,8 +14,6 @@ Syntax highlighted code block
 # Nathan Andrews's First CS 193 Homework
 - Memes
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
